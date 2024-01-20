@@ -1,0 +1,15 @@
+
+en la consola ejecutar 
+
+
+npm init -y
+npm install express mysql
+npm install express mysql jsonwebtoken body-parser cors
+
+
+para ejecutar el servidor  en la consola ---> cd restaurant-api   
+//// para acceder a carpeta de api
+
+
+luego ejecutar ->  node app.js
+
